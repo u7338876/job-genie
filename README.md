@@ -1,6 +1,6 @@
 # job-genie
 
-##Introduction
+## Introduction
 
 Welcome to Job Genie! I'd like to start with the cavaet that I am a Year 2 Computing student (as of 2023) and I started this simple project as part of my internship. The data and logic used in this project does not reflect the HR systems used in my organisation. 
 
