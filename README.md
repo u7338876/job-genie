@@ -8,7 +8,7 @@ The dashboard makes use of Dash and Plotly for visualisation, while Pandas is us
 
 ## Installation Instructions
 
-1. To start the dashboard, you will need an Integrated Development Environment (IDE). I used Jupyter Notebook to develop my code. For that, you will need to download Anaconda Navigator. Click [here](https://docs.anaconda.com/navigator/install/) for instructions for installation. 
+1. To start the dashboard, you will need an Integrated Development Environment (IDE). I used Jupyter Notebook to develop my code. For that, you will need to download Anaconda Navigator. Click [here](https://docs.anaconda.com/navigator/install/) for the installation instructions. 
 
 2. Next, you will need to download and import the required packages. Instructions are in the [notebook](V2_CareerPathsApp.ipynb). 
 
