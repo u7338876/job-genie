@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Job Genie! I'd like to start with the cavaet that I am a Year 2 Computing student (as of 2023) and I started this simple project as part of my internship. The data and logic used in this project does not reflect the HR systems used in my organisation. 
+Welcome to Job Genie! This is a simple project that I did up as part of my internship. The data and logic used in this project does not reflect the HR systems used in my organisation. 
 
 The dashboard makes use of Dash and Plotly for visualisation, while Pandas is used for data analysis. 
 
